@@ -1,4 +1,7 @@
+![Banner_Github](https://github.com/user-attachments/assets/e195ba44-2778-4ca6-ba72-a9bd48efbbeb)
+
 # About me 
+
 
 Hi! My name is Tina and I am a spanish second year student of multi-platform application development 👩‍🎓. Currently working on learning new languages and improving my skills.
 
