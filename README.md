@@ -17,9 +17,9 @@ I guess I am a passionate for all kind of languages 🤓
 |-----:|---------------|
 |     1|     Java      |
 |     2|     SQL       |
-|     3|  JavaScript   |
-|     4|     HTML      |
-|     5|     CSS       |
+|     3|     Kotlin    |
+|     4|   JavaScript  |
+|     5|   HTML y CSS  |
 
 </details>
 
